@@ -1,10 +1,6 @@
-# React-Start
+# step1-初识React
 
-React 起源于 Facebook 的内部项目，因为该公司对市场上所有 JavaScript MVC 框架，都不满意，就决定自己写一套，用来架设 [Instagram](https://www.instagram.com/) 的网站。做出来以后，发现这套东西很好用，就在2013年5月开源了。
-
-链接：[React](https://facebook.github.io/react/docs/installation.html) / [React Native](https://facebook.github.io/react-native/)
-
-接下来，就来认识一下React的基础用法
+先来认识一下React的基础用法
 
 ### HTML 模板
 使用 React 的网页源码，结构大致如下
